@@ -1,5 +1,5 @@
 ### Hello there, I'm KirCute 👋
-- An undergraduate student and a beginner in game development.
+- A graduate student and a beginner in game development.
 - My Blog: [![](https://img.shields.io/badge/Blog-KirCute-%2300a76c?style=flat)](https://www.kircute.top)
 - My GitHub: [![](https://img.shields.io/badge/GitHub-KirCute-%23000000?style=flat)](https://github.com/kircute)
 
